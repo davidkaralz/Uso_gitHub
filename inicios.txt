@@ -13,3 +13,5 @@ despues de un mes retome nuevamente el curso,
 
  la idea es estudiar en las noches una hora y en las mañanas estudiar inteligencia
  artificial
+
+ prueba para el uso del branch, ya que no lo estaba entendiendo
